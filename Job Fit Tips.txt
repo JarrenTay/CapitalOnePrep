@@ -12,3 +12,4 @@ Steps to take during the job fit interview.
 Always say what you're thinking out loud.
 Be aware of what the interviewer is saying (probably a hint)
 Look out for boundary errors. (for loop iteration count off by 1)
+Practice these steps!
