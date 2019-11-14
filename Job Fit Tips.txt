@@ -1,0 +1,14 @@
+Steps to take during the job fit interview.
+
+1. Ask any clarification questions.
+2. Think about an intuitive solution.
+3. Say your intuitive solution.
+4. Determine what steps are needed in your solution.
+5. Say how you generally approach each of these steps in code. (I think I need to loop through...) (I'll need a vector to hold these values because...)
+6. As you say your solution, write the code.
+7. Think about some common edge cases. (Reach end of linked list)
+8. Run through your code.
+
+Always say what you're thinking out loud.
+Be aware of what the interviewer is saying (probably a hint)
+Look out for boundary errors. (for loop iteration count off by 1)
